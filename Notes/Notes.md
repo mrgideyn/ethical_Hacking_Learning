@@ -210,3 +210,6 @@ options :
 -e (use specific interface) eth0
 -g (specify scan source port)
 -T (set timing template)
+ 
+# Section 6 : Py port scanner project
+- [py socket lib]( https://docs.python.org/3/library/socket.html )
